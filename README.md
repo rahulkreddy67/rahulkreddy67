@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img alt="Rancher" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/> <!-- <img alt="Static Badge" src="https://img.shields.io/badge/VAULT-8A2BE2?style=for-the-badge&logo=vault&logoColor=white&labelColor=black&color=black"> -->  <!-- <img alt="Static Badge" src="https://img.shields.io/badge/FLUX-%2322ADF6?style=for-the-badge&logoColor=white&labelColor=%2322ADF6&color=%2322ADF6"> --> <!-- <img alt="Static Badge" src="https://img.shields.io/badge/CROSSPLANE-%2322ADF6?style=for-the-badge&logoColor=white&labelColor=orange&color=orange"> -->
-
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/VAULT-8A2BE2?style=for-the-badge&logo=vault&logoColor=white&labelColor=black&color=black"> -->  
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
