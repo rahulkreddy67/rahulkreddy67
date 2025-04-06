@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Welcome to my personal repository! Here you'll find my projects and experiments with various technologies.
 <!--
 **rahulkreddy67/rahulkreddy67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +34,11 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 <!-- ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) -->
+
+### About Me
+- 🔭 I’m currently working on personal projects with the above listed techonologies and learning new.
+- 🌱 I’m currently learning Go and GitOps
+
+Feel free to explore and contribute!
+
 
